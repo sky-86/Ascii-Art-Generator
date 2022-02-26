@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0OVHdZKpn595R9B9CVYIB6W6p6/xAbypDyC+imAfo9+em5bezL83Yb5BamCoOLefQ0EdmZE1cLcZa6fuJ1Chw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sky86\\Documents\\Projects\\Csharp\\School\\ASCII-Generator-Simple\\ASCII-Generator-Simple\\ASCII-Generator-Simple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sky86\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\sky86\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\sky86\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
