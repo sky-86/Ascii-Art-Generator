@@ -13,3 +13,4 @@ Creates a ascii-art image from an existing image or gif.
 
 Allows you to specify a kernel size, a lower kernel size will increase the detail of the ascii image.
 ![settings](https://user-images.githubusercontent.com/79473529/156041560-07db7824-8da4-4f07-a360-1054b92a15e6.png)
+![high](https://user-images.githubusercontent.com/79473529/156041821-70d257e5-f938-46e5-b8bf-65f68460f1e9.gif)
